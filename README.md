@@ -1,4 +1,6 @@
-### Hi there 👋
+![ryuga0719's github stats](https://github-readme-stats.vercel.app/api?username=ryuga071&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuga0719&layout=compact&theme=radical)
+
 
 <!--
 **ryuga0719/ryuga0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
