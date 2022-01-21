@@ -1,5 +1,12 @@
-![ryuga0719's github stats](https://github-readme-stats.vercel.app/api?username=ryuga0719&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuga0719&layout=compact&theme=radical)
+<p align=left>
+  <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryuga0719&count_private=true&show_icons=true&theme=radical" />
+  <img alt="Top lang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuga0719&layout=compact&theme=radical" />
+</p>
+<p>
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ryuga0719&theme=radical" />
+ </p>
+
+
 
 
 <!--
