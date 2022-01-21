@@ -1,4 +1,4 @@
-![ryuga0719's github stats](https://github-readme-stats.vercel.app/api?username=ryuga071&count_private=true&show_icons=true&theme=radical)
+![ryuga0719's github stats](https://github-readme-stats.vercel.app/api?username=ryuga0719&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuga0719&layout=compact&theme=radical)
 
 
