@@ -1,4 +1,5 @@
 # Hi there! I'm Ryuga! 🛰
+![GitHub followers](https://img.shields.io/github/followers/ryuga0719?style=social)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryuga0719?style=social">
 <p align=left>
   <img alt="Github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryuga0719&count_private=true&show_icons=true&theme=radical" />
