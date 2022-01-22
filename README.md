@@ -15,9 +15,9 @@
 
  ## 💻 Technologies
  <p>
-  <img src="https://img.shields.io/badge/Javascript-black.svg?logo=javascript&style=flat">
-  <img src="https://img.shields.io/badge/TypeScript-black.svg?logo=typescript&style=flat">
-  <img src="https://img.shields.io/badge/Python-black?logo=Python&style=flat">
+  <img src="https://img.shields.io/badge/Javascript-000.svg?logo=javascript&style=flat">
+  <img src="https://img.shields.io/badge/TypeScript-000.svg?logo=typescript&style=flat">
+  <img src="https://img.shields.io/badge/Python-000?logo=Python&style=flat">
   <img src="https://img.shields.io/badge/HTML5-333.svg?logo=html5&style=flat">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/Sass-ccc.svg?logo=sass&style=flat">
@@ -25,28 +25,29 @@
   <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=Angular&style=flat">
   <img src="https://img.shields.io/badge/Ionic-ccc?logo=ionic&style=flat">
-  <img src="https://img.shields.io/badge/Bootstrap-black.svg?logo=bootstrap&style=flat">
+  <img src="https://img.shields.io/badge/Bootstrap-000.svg?logo=bootstrap&style=flat">
   <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
   <img src="https://img.shields.io/badge/Vite-ccc?logo=vite&style=flat">
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&style=flat">
-  <img src="https://img.shields.io/badge/MySQL-black.svg?logo=MySQL&style=flat">
-  <img src="https://img.shields.io/badge/Netlify-black.svg?logo=netlify&style=flat">
+  <img src="https://img.shields.io/badge/MySQL-000.svg?logo=MySQL&style=flat">
+  <img src="https://img.shields.io/badge/Netlify-000.svg?logo=netlify&style=flat">
 </p>
  
  ## 🔨 Tools
 <p>
-  <img src="https://img.shields.io/badge/-Photoshop-black.svg?logo=Adobephotoshop&style=flat">
-  <img src="https://img.shields.io/badge/-Lightroom-black.svg?logo=Adobelightroom&style=flat">
+  <img src="https://img.shields.io/badge/-Photoshop-000.svg?logo=Adobephotoshop&style=flat">
+  <img src="https://img.shields.io/badge/-Lightroom-000.svg?logo=Adobelightroom&style=flat">
+  <img src="https://img.shields.io/badge/-XD-000.svg?logo=Adobexd&style=flat">
   <img src="https://img.shields.io/badge/-Excel-217346.svg?logo=microsoftexcel&style=flat">
   <img src="https://img.shields.io/badge/-Powerpoint-B7472A.svg?logo=microsoftpowerpoint&style=flat">
   <img src="https://img.shields.io/badge/-PowerAutomate-0066FF.svg?logo=powerautomate&style=flat">
-  <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat">
+  <img src="https://img.shields.io/badge/-Git-000?logo=git&style=flat">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&style=flat">
   <img src="https://img.shields.io/badge/-Teams-000.svg?logo=microsoftteams&style=flat">
-  <img src="https://img.shields.io/badge/-Slack-black.svg?logo=slack&style=flat">
-  <img src="https://img.shields.io/badge/-Skype-black.svg?logo=skype&style=flat">
-  <img src="https://img.shields.io/badge/-Notion-black.svg?logo=notion&style=flat">
+  <img src="https://img.shields.io/badge/-Slack-000.svg?logo=slack&style=flat">
+  <img src="https://img.shields.io/badge/-Skype-000.svg?logo=skype&style=flat">
+  <img src="https://img.shields.io/badge/-Notion-000.svg?logo=notion&style=flat">
 </p>
  
  ## 🎓 Qualifications
