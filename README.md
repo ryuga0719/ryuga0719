@@ -12,12 +12,8 @@
   <img alt="Github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryuga0719&count_private=true&show_icons=true&theme=radical" />
   <img alt="Top lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuga0719&langs_count=6&layout=compact&theme=radical" />
 </p>
-<hr />
-<p>
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ryuga0719&theme=radical" />
- </p>
 
- ## ⚜ Technologies
+ ## ⚜ Technologies & Tools
  <p>
   <img src="https://img.shields.io/badge/Javascript-black.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/-TypeScript-black.svg?logo=typescript&style=flat">
@@ -40,6 +36,8 @@
   <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&style=flat">
+  <img src="https://img.shields.io/badge/-Slack-black.svg?logo=slack&style=flat">
+  
  </p>
  
  ## 🚀 Publication
