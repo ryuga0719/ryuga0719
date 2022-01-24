@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-000?logo=Python&style=flat">
   <img src="https://img.shields.io/badge/HTML5-333.svg?logo=html5&style=flat">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat">
-  <img src="https://img.shields.io/badge/Sass-ccc.svg?logo=sass&style=flat">
+  <img src="https://img.shields.io/badge/Sass-eee.svg?logo=sass&style=flat">
   <img src="https://img.shields.io/badge/EJS-8BA438.svg?logo=ejs&style=flat">
   <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=Angular&style=flat">
