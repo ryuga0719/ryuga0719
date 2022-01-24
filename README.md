@@ -2,7 +2,7 @@
 <p>
   <img src="https://img.shields.io/github/followers/ryuga0719?style=social">
   <a href="https://mobile.twitter.com/toaru_fe_">
-    <img src="https://img.shields.io/badge/-Twitter-ccc.svg?logo=Twitter&style=flat">
+    <img src="https://img.shields.io/badge/-Twitter-eee.svg?logo=Twitter&style=flat">
   </a>
 </p>
 
