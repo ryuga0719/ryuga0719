@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/Sass-eee.svg?logo=sass&style=flat">
   <img src="https://img.shields.io/badge/EJS-8BA438.svg?logo=ejs&style=flat">
-  <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+  <img src="https://img.shields.io/badge/PHP-eee.svg?logo=php&style=flat">
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=Angular&style=flat">
-  <img src="https://img.shields.io/badge/Ionic-ccc?logo=ionic&style=flat">
+  <img src="https://img.shields.io/badge/Ionic-eee?logo=ionic&style=flat">
   <img src="https://img.shields.io/badge/Bootstrap-000.svg?logo=bootstrap&style=flat">
   <img src="https://img.shields.io/badge/React-555.svg?logo=react&style=flat">
-  <img src="https://img.shields.io/badge/Vite-ccc?logo=vite&style=flat">
+  <img src="https://img.shields.io/badge/Vite-eee?logo=vite&style=flat">
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&style=flat">
   <img src="https://img.shields.io/badge/MySQL-000.svg?logo=MySQL&style=flat">
   <img src="https://img.shields.io/badge/Netlify-000.svg?logo=netlify&style=flat">
@@ -56,6 +56,6 @@
  ## 📂 Articles
  <p>
   <a href="https://zenn.dev/toaru_fe">
-    <img src="https://img.shields.io/badge/-zenn-ccc.svg?logo=Zenn&style=flat">
+    <img src="https://img.shields.io/badge/-zenn-eee.svg?logo=Zenn&style=flat">
   </a>
 </p>
